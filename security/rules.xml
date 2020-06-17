@@ -1,0 +1,19 @@
+<odoo>
+<data>
+
+
+  <record id="group_imad" model="res.groups">
+        <field name="name">Imad Custom Group</field>
+        <field name="category_id" ref="base.module_category_accounting_and_finance"/>       
+    </record>
+
+
+
+</data>
+
+
+
+
+
+
+</odoo>
